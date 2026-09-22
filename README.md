@@ -760,7 +760,7 @@ Automate the repeatable work.
 Measure the results.
 Improve continuously.»
 
----
+---https://gumroad.com/nisaraistudio
 
 Nisar AI Studio
 
